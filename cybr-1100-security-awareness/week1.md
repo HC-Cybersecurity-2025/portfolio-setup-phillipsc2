@@ -1,14 +1,13 @@
 # Week 1 – Introduction to Security Awareness
  
 **Description:**  
-What was covered this week? Summarize key ideas in 2–3 sentences.  
+The textbooks and Netacad covered subjects such as what exactly cybersecurity is, online identities and the importance of anonymity, how personal data is used, what exactly bad actors and hackers want, white/black/gray hats and their intentions, and other basics. 
  
 **Artifacts:**  
-- Screenshot of MFA setup  
 - Screenshot of GitHub Pages live site  
  
 **Reflection:**  
-Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
+I learned about the speed and severity of cyberattacks, how quickly they come and go, and how commonplace they are in the modern day. I learned about the fundamental basics behind cybersecurity and cybersecurity concepts.
  
 **AI Use Note:**  
-If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
+No AI
